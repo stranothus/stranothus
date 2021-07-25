@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **stranothus/stranothus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Quinn Gibson, Stranothus Studios. I'm a young web developer going into the freelance business!
+
+## My accomplishments:
+
+- Wrote my first program at eleven years old.
+- Learned Procesing JS, a library now replaced with P5 JS, to create JavaScript programs with graphics after just turning twelve. I continued creating programs in Processing JS until I was about fourteen when I moved more towards web development.
+- Began learning front end web development at thirteen and really got in deep at fourteen. After a little while, I knew web dev was the kind of programming I wanted to do.
+- Founded multiple teams and headed a learning effort to educate other students on the platform I had been working on to learn web development.
+- Left my previous learning platform to expand. I have since moved to Repl.it and GitHub.
+- Learned the basics of backend web development at sixteen with Node JS and Express early on at sixteen.
+- I recently have finished my first fullstack webpage for a client. Just waiting for them to get a domain name and decide on a hosting service now.
+
+## My skills
+
+- HTML5
+- CSS3
+- ES6+ JavaScript along with various APIs
+- Node JS with Express
+- TypeScript
+
+## I'm currently working on learning
+
+- Golang
+- WebAssembly
+- PHP
+- React
+- Angular
+- Vue
+
+## My current projects
+
+- Portfolio webpage
+- Stranothus playgrounds, a locally hosted fullstack application for games, tools, and more!
+- My second client website
