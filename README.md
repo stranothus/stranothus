@@ -53,4 +53,4 @@ I'm Quinn Gibson, Stranothus Studios. I'm a young web developer going into the f
 
 ## My portfolio
 
-[http://stranothusstudios.com](Stranothus Studios)
+[Stranothus Studios](http://stranothusstudios.com)
