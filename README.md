@@ -34,18 +34,23 @@ I'm Quinn Gibson, Stranothus Studios. I'm a young web developer going into the f
 - ES6+ JavaScript along with various APIs
 - Node JS with Express
 - TypeScript
+- Golang
 
 ## I'm currently working on learning
 
-- Golang
 - WebAssembly
 - PHP
 - React
 - Angular
 - Vue
+- Python
+- Java
 
 ## My current projects
 
-- Portfolio webpage
 - Stranothus playgrounds, a locally hosted fullstack application for games, tools, and more!
 - My second client website
+
+## My portfolio
+
+[http://stranothusstudios.com](Stranothus Studios)
