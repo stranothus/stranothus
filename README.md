@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Quinn Gibson, Stranothus Studios. I'm a young web developer going into the freelance business!
+I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer going into the freelance business!
 
 ## My accomplishments:
 
@@ -53,4 +53,4 @@ I'm Quinn Gibson, Stranothus Studios. I'm a young web developer going into the f
 
 ## My portfolio
 
-[Stranothus Studios](http://stranothusstudios.com)
+[stranothusstudios.com](http://stranothusstudios.com)
