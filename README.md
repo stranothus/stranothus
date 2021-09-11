@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer going into the freelance business!
+I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer in the freelance web development business!
 
 ## My accomplishments:
 
@@ -26,6 +26,7 @@ I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer going into th
 - Left my previous learning platform to expand. I have since moved to Repl.it and GitHub.
 - Learned the basics of backend web development at sixteen with Node JS and Express early on at sixteen.
 - I recently have finished my first fullstack webpage for a client. Just waiting for them to get a domain name and decide on a hosting service now.
+- Developed and maintain my own fullstack website
 
 ## My skills
 
