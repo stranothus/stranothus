@@ -20,7 +20,7 @@ I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer in the freela
 ## My accomplishments:
 
 - Wrote my first program at eleven years old.
-- Learned Procesing JS, a library now replaced with P5 JS, to create JavaScript programs with graphics after just turning twelve. I continued creating programs in Processing JS until I was about fourteen when I moved more towards web development.
+- Learned Processing JS, a library now replaced with P5 JS, to create JavaScript programs with graphics after just turning twelve. I continued creating programs in Processing JS until I was about fourteen when I moved more towards web development.
 - Began learning front end web development at thirteen and really got in deep at fourteen. After a little while, I knew web dev was the kind of programming I wanted to do.
 - Founded multiple teams and headed a learning effort to educate other students on the platform I had been working on to learn web development.
 - Left my previous learning platform to expand. I have since moved to Repl.it and GitHub.
@@ -36,6 +36,8 @@ I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer in the freela
 - Node JS with Express
 - TypeScript
 - Golang
+- Git
+- Heroku
 
 ## I'm currently working on learning
 
