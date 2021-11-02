@@ -28,6 +28,10 @@ I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer in the freela
 - I recently have finished my first fullstack webpage for a client. Just waiting for them to get a domain name and decide on a hosting service now.
 - Developed and maintain my own fullstack website
 
+## GitHub Stats
+
+![Quinn Gibson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stranothus&show_icons=true&theme=github_dark)
+
 ## My skills
 
 - HTML5
