@@ -1,63 +1,56 @@
 ### Hi there!
 
-<!--
-**stranothus/stranothus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Quinn Gibson (he/him), of Stranothus Studios. I'm a young web developer in the freelance web development business!
 
-Here are some ideas to get you started:
+## A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a straight A homeschool student taking dual enrollment classes at my community college since my Sophomore year. I currently take nearly all of my classes at the college and am scheduled to recieve my Associates level degree a semester before I graduate high school. 
 
-I'm Quinn Gibson, of Stranothus Studios. I'm a young web developer in the freelance web development business!
+I've trained in martial arts for nearly half of my life, taking a break during Covid-19. I successfully tested for my first degree black belt and am looking forward to testing for my second, after pre-Covid complications and Covid restrictions. I instructed at my dojo for nearly two years before Covid.
+
+I'm utterly passionate about programming. I code all the time and am always learning more. When I can't get to a computer, I'm still thinking about projects and solutions, even in my dreams.
 
 ## My accomplishments:
 
 - Wrote my first program at eleven years old.
-- Learned Processing JS, a library now replaced with P5 JS, to create JavaScript programs with graphics after just turning twelve. I continued creating programs in Processing JS until I was about fourteen when I moved more towards web development.
-- Began learning front end web development at thirteen and really got in deep at fourteen. After a little while, I knew web dev was the kind of programming I wanted to do.
-- Founded multiple teams and headed a learning effort to educate other students on the platform I had been working on to learn web development.
-- Left my previous learning platform to expand. I have since moved to Repl.it and GitHub.
-- Learned the basics of backend web development at sixteen with Node JS and Express early on at sixteen.
-- I recently have finished my first fullstack webpage for a client. Just waiting for them to get a domain name and decide on a hosting service now.
-- Developed and maintain my own fullstack website
-
-## GitHub Stats
+- Earned my black belt in karate at eleven after four years of training.
+- Began learning front end web development at thirteen. 
+- Was writing fully functional and interactive front end websites throughout fourteen and fifteen.
+- Learned the basics of backend web development at sixteen with Node JS and Express.
+- Developed a fullstack webpage for a client at sixteen.
+- Developed and maintain my own fullstack website at sixteen.
+- Participated in my first hackathon at sixteen and worked twelve hours on the biggest day.
+- Collaborated with a friend to create a custom SASS transpiler.
+- Enrolled in an online cyber security course at sixteen.
 
 ![Quinn Gibson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stranothus&show_icons=true&theme=github_dark)
 
+## GitHub Activity
+
+I program nearly everyday and open source the vast majority of my work here on GitHub. Check out just how much I've done. 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stranothus&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=FFFFFF&stroke=FFFFFF&ring=4B8CD9&fire=174C9F&currStreakNum=4B8CD9&sideNums=4B8CD9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
 ## My skills
 
-- HTML5
-- CSS3
-- ES6+ JavaScript along with various APIs
-- Node JS with Express
-- TypeScript
-- Golang
-- Git
-- Heroku
-
-## I'm currently working on learning
-
-- WebAssembly
-- PHP
-- React
-- Angular
-- Vue
-- Python
-- Java
+- Frontend: HTML, CSS, JavaScript
+- backend: NodeJS, Golang
+- JS libraries: ProcessingJS, jQuery
+- Node packages: Express, DiscordJS, fs, node-fetch
+- Transpiled languages: TypeScript, SCSS/SASS
+- Command line: Git, Heroku
+- Fun: BrainF, LOLCode
+- Platforms: VSCode, Replit, GitHub, CodePen, JSFiddle
+- Projects: Websites, Chrome Extensions, web apps, bots, bookmarklets
+- Currently learning: WebAssembly, PHP, React, Angular, Vue, Python, Java, C++
 
 ## My current projects
 
 - Stranothus playgrounds, a locally hosted fullstack application for games, tools, and more!
 - My second client website
+- Discord-EZ, a general purpose Discord bot for better Discord experiences and server management
+- My portfolio's redesign which will incorporate many new and exciting features
 
 ## My portfolio
 
-[stranothusstudios.com](http://stranothusstudios.com)
+[stranothusstudios.com](https://stranothusstudios.com)
