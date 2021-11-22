@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Quinn Gibson (he/him), of Stranothus Studios. I'm a young web developer in the freelance web development business!
+I'm Quinn Gibson (he/him), of Stranothus Studios. I'm a young web developer in the freelance business!
 
 ## A little about me
 
