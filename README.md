@@ -34,7 +34,7 @@ I program nearly everyday and open source the vast majority of my work here on G
 ## My skills
 
 - Frontend: HTML, CSS, JavaScript
-- backend: NodeJS, Golang
+- backend: NodeJS
 - JS libraries: ProcessingJS, jQuery
 - Node packages: Express, DiscordJS, fs, node-fetch
 - Transpiled languages: TypeScript, SCSS/SASS
