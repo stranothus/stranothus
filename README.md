@@ -42,7 +42,7 @@ I program nearly everyday and open source the vast majority of my work here on G
 - Fun: BrainF, LOLCode
 - Platforms: VSCode, Replit, GitHub, CodePen, JSFiddle
 - Projects: Websites, Chrome Extensions, web apps, bots, bookmarklets
-- Currently learning: WebAssembly, PHP, React, Angular, Vue, Python, Java, C++
+- Currently learning: Java
 
 ## My current projects
 
