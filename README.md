@@ -22,6 +22,8 @@ I'm utterly passionate about programming. I code all the time and am always lear
 - Participated in my first hackathon at sixteen and worked twelve hours on the biggest day.
 - Collaborated with a friend to create a custom SASS transpiler.
 - Enrolled in an online cyber security course at sixteen.
+- Created a BrainF interpreter at sixteen
+- First client website finished and running at sixteen
 
 ![Quinn Gibson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stranothus&show_icons=true&theme=github_dark)
 
