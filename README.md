@@ -4,7 +4,7 @@ I'm Quinn Gibson (he/him), of Stranothus Studios. I'm a young web developer in t
 
 ## A little about me
 
-I'm a straight-A homeschool student. I have been taking dual enrollment courses at my local community college since my Sophomore year. I currently take nearly all of my classes at the college and am scheduled to recieve my Associates level degree a semester before I graduate high school. 
+I'm a nearly straight-A 3.85 unweighted GPA homeschool student. I have been taking dual enrollment courses at my local community college since my Sophomore year. I currently take nearly all of my classes at the college and am scheduled to recieve my Associates level degree a semester before I graduate high school. 
 
 I've trained in martial arts for nearly half of my life, taking a break during Covid-19. I successfully tested for my first degree black belt and am looking forward to testing for my second after pre-Covid complications and Covid restrictions. I was priveleged to instruct at my dojo for nearly two years before Covid.
 
