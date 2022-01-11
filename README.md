@@ -55,4 +55,4 @@ I program nearly everyday and open source the vast majority of my work here on G
 
 ## My portfolio
 
-[stranothusstudios.com](https://stranothusstudios.com)
+[stranothusstudios.com](http://stranothusstudios.com/page/home)
