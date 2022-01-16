@@ -24,6 +24,7 @@ I'm utterly passionate about programming. I code all the time and am always lear
 - Enrolled in an online cyber security course at sixteen.
 - Created a BrainF interpreter at sixteen
 - First client website finished and running at sixteen
+- Seoncd client website finished and running at sixteen
 
 ![Quinn Gibson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stranothus&show_icons=true&theme=github_dark)
 
@@ -36,7 +37,8 @@ I program nearly everyday and open source the vast majority of my work here on G
 ## My skills
 
 - Frontend: HTML, CSS, JavaScript
-- backend: NodeJS
+- Backend: NodeJS
+- Development: Java
 - JS libraries: ProcessingJS, jQuery
 - Node packages: Express, DiscordJS, fs, node-fetch
 - Transpiled languages: TypeScript, SCSS/SASS
@@ -44,13 +46,13 @@ I program nearly everyday and open source the vast majority of my work here on G
 - Fun: BrainF, LOLCode
 - Platforms: VSCode, Replit, GitHub, CodePen, JSFiddle
 - Projects: Websites, Chrome Extensions, web apps, bots, bookmarklets
-- Currently learning: Java
 
 ## My current projects
 
 - Stranothus playgrounds, a locally hosted fullstack application for games, tools, and more!
-- My second client website
+- My third client's game engine
 - Discord-EZ, a general purpose Discord bot for better Discord experiences and server management
+- Happy Tunes, a music bot for Discord
 - My portfolio's redesign which will incorporate many new and exciting features
 
 ## My portfolio
