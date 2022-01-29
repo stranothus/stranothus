@@ -44,6 +44,7 @@ I program nearly everyday and open source the vast majority of my work here on G
 - Transpiled languages: TypeScript, SCSS/SASS
 - Command line: Git, Heroku
 - Fun: BrainF, LOLCode
+- Databases: MongoDB
 - Platforms: VSCode, Replit, GitHub, CodePen, JSFiddle
 - Projects: Websites, Chrome Extensions, web apps, bots, bookmarklets
 
