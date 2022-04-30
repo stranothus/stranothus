@@ -39,9 +39,9 @@ I program nearly everyday and open source the vast majority of my work here on G
 ## My skills
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: NodeJS
+- Backend: NodeJS, NextJS
 - Development: Java
-- JS libraries: ProcessingJS, jQuery
+- JS libraries: ProcessingJS, jQuery, React
 - Node packages: Express, DiscordJS, fs, node-fetch
 - Transpiled languages: TypeScript, SCSS/SASS
 - Command line: Git, Heroku
